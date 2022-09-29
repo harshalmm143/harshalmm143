@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Harshal Mahajan</h1>
 <h3 align="center">A passionate Full stack developer and Ui developer from India</h3>
 
-<img  align ="right" alt="Coding" width="400" src ="https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif">
+<img  align ="right" alt="Coding" width="400" radius="45" src ="https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshalmm143&label=Profile%20views&color=0e75b6&style=flat" alt="harshalmm143" /> </p>
 
